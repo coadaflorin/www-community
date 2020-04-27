@@ -105,6 +105,12 @@ every effort to correct this information.</b>
     Dawn is an open source security source code analyzer designed for
     Sinatra, Padrino for Ruby on Rails applications. It also works on
     non-web applications written in Ruby
+  - [CodeSweep] (https://hclsw.co/codesweep) - HCL AppScan CodeSweep is a 
+    free to use SAST tool available in VS Code as a plugin. The tool 
+    monitors the users activities and upon a save analyses the contents of
+    the file & highlights potential vulnerabilities. Currently the tool can 
+    support several languages and frameworks like Python, Go, Ruby, Perls, JS,
+    Angular, Node, PHP and a few others. 
   - [Deep Dive](https://discotek.ca/deepdive.xhtml) - Byte code analysis
     tool for discovering vulnerabilities in Java deployments (Ear, War,
     Jar).
